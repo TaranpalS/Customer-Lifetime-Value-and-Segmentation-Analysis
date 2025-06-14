@@ -9,8 +9,9 @@ Customer Lifetime Value (CLV) helps businesses understand the value of their cus
 
 ---
 
-## Dataset
+## Dataset Used
 
+**Dataset:** [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail) from the UCI Machine Learning Repository  
 - Transactional data with fields like `CustomerID`, `InvoiceDate`, `Quantity`, and `UnitPrice`.
 - Data should be cleaned and preprocessed before use.
 
